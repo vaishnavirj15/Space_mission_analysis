@@ -68,7 +68,7 @@ The final stage was the creation of a futuristic **Heads-Up Display (HUD)** for 
 
 ```  
 
-├── /datasets                 # Datsets 
+├── /Data                # Datsets 
 │   ├── /space_mission
 │   ├── /space_mission_cleaned
  
