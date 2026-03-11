@@ -26,8 +26,6 @@ With clean data, I used **Matplotlib** and **Seaborn** to identify statistical t
 
 
 
-> **🔍 Technical Deep-Dive:**
-> **[View the full Python Notebook via nbviewer](https://nbviewer.org/github/vaishnavirj15/Space_mission_analysis/blob/main/space_analysis.ipynb)**
 
 ---
 
